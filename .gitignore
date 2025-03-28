@@ -1,0 +1,4 @@
+structure.txt
+variables.tfvars
+.terraform.lock.hcl
+.terraform
